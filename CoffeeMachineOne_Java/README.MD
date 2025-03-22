@@ -1,4 +1,4 @@
-Projektistruktuur on edukalt loodud. Siin on kaustade ja failide hierarhia:
+Siin on kaustade ja failide hierarhia:
 
 ```
 CoffeeMachine/
