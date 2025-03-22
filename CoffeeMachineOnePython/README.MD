@@ -8,7 +8,6 @@ See projekt simuleerib kohvimasina tööd, kus saab valmistada erinevaid kohvijo
 
 Projekt koosneb järgmisest failide ja kaustade struktuurist:
 
-```
 ```markdown
 coffee_machine_project/
 ├── coffee_machine.py     # Peamine loogika kohvimasina käitumise jaoks
