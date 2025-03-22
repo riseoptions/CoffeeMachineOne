@@ -1,3 +1,24 @@
+Projektistruktuur on edukalt loodud. Siin on kaustade ja failide hierarhia:
+
+```
+CoffeeMachine/
+│
+├── lib/
+│   ├── junit-4.13.2.jar
+│   └── hamcrest-core-1.3.jar
+├── src/
+│   └── machine/
+│       └── CoffeeMachine.java
+├── test/
+│   └── machine/
+│       └── CoffeeMachineTest.java
+├── README.md
+└── build.gradle
+```
+
+Sa saad nüüd täita Java failid vajaliku koodiga ja testida oma projekti.
+
+
 Kui arendame väikest projekti, nagu näiteks kohvimasina programm Java keeles, siis failide ja kaustade struktuur peaks olema organiseeritud ja lihtsasti mõistetav. Siin on tüüpiline failistruktuur, mida võiks järgida, kui loome Java projekti:
 
 ### 1. **Projektijuure kaust**
