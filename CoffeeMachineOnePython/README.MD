@@ -1,5 +1,4 @@
 
-```markdown
 # Coffee Machine Project
 
 See projekt simuleerib kohvimasina tööd, kus saab valmistada erinevaid kohvijooke, täita masina ressursse, võtta raha välja ja vaadata ressursside taset. Projekt on kirjutatud Pythonis ja sisaldab ka testimist.
